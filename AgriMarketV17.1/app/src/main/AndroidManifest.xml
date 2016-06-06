@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lenovo.testslidenerd">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <!-- GPS LocationActivity Detection -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- G+ Login -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="USE_CREDENTIALS" />
+
+    <meta-data
+        android:name="com.google.android.gms.version"
+        android:value="@integer/google_play_services_version" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <!-- check network state -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:name=".MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/logoo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="activities.MainCategoriesActivity"
+            android:label="@string/app_name">
+
+        </activity>
+        <activity
+            android:name="activities.SignUpActivity"
+            android:label="Log In" />
+        <activity
+            android:name="activities.LocationActivity"
+            android:label="Location" />
+        <activity
+            android:name="activities.ContactUsActivity"
+            android:label="@string/contactUsTitle" />
+        <activity
+            android:name="activities.ProfileActivity"
+            android:label="@string/profileTitle" />
+        <activity android:name="activities.SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="activities.EditProfileActivity"
+            android:label="Edit Profile" />
+        <activity
+            android:name="activities.GetMyOffersActivity"
+            android:label="My Offers" />
+        <activity
+            android:name="activities.OfferDetailsActivity"
+            android:label="Offer Details" />
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <!-- fB -->
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/app_id" />
+
+        <activity android:name="activities.UserCheckActivity" />
+        <activity android:name="activities.ChildrenActivity" android:label="Categories"></activity>
+        <activity android:name="activities.GetOffersActivity" android:label="Offers"></activity>
+    </application>
+
+</manifest>

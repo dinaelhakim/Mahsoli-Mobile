@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_icon"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/profile"
+            android:title="@string/profile" />
+        <item
+            android:id="@+id/nav_contact_us"
+            android:icon="@drawable/phone_icon"
+            android:title="@string/contactUs" />
+        <item
+            android:id="@+id/nav_log_out"
+            android:icon="@drawable/logout_icon"
+            android:title="@string/logOut" />
+    </group>
+
+    <item android:title="@string/personalSettings">
+        <menu>
+            <item
+                android:id="@+id/nav_edit_pofile"
+                android:icon="@drawable/edit_black"
+                android:title="@string/editProfile" />
+            <item
+                android:id="@+id/nav_my_offers"
+                android:icon="@drawable/shopping_cart"
+                android:title="@string/myOffers" />
+        </menu>
+    </item>
+
+</menu>

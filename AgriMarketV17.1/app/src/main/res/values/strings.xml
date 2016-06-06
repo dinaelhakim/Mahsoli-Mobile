@@ -1,0 +1,237 @@
+<resources>
+    <string name="app_name">Mahsoli</string>
+    <!--sideMenue-->
+    <string-array name="setting">
+        <item>Home</item>
+        <item>Profile</item>
+        <item>Contact Us</item>
+        <item>Log Out</item>
+    </string-array>
+
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="contactUs">Contact Us</string>
+    <string name="logOut">Log Out</string>
+    <string name="editProfile">Edit Profile</string>
+    <string name="myOffers">My Offers</string>
+    <string name="personalSettings">Personal Settings</string>
+
+    <!--contact us-->
+    <string name="app_email">mahsoli@gmail.com</string>
+
+
+    <!--Home Page List   -->
+    <string-array name="mainList">
+        <item>Crops</item>
+        <item>Fertilizers</item>
+        <item>Chemicals</item>
+        <item>T2awi</item>
+    </string-array>
+
+    <!--Crops Main Categories-->
+    <string-array name="cropsMainList">
+        <item>Vegetables</item>
+        <item>Fruits</item>
+        <item>Seeds</item>
+    </string-array>
+
+
+    <string-array name="vegetablesNames">
+        <item>Tomato</item>
+        <item>Cucumber</item>
+        <item>Carrots</item>
+        <item>Gargir</item>
+        <item>Pepper</item>
+        <item>zucchini</item>
+    </string-array>
+
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">close Navigation Drawer</string>
+    <!--profile-->
+    <string name="name">Name</string>
+    <string name="governorate">Governorate</string>
+    <string name="email">Email</string>
+    <string name="staticUserName">Hussin Ali Kamel</string>
+
+    <!--activities' titles-->
+
+    <string name="cropsTypes">Crops Types</string>
+    <string name="fertilizersTypes">Fertilizers Types</string>
+    <string name="chemicalsTypes">Chemicals Types</string>
+    <string name="T2awi">T2awi</string>
+
+
+    <string name="profileTitle">Profile Page</string>
+    <string name="contactUsTitle">Contact Us</string>
+    <string name="FruitsTitle">Fruits</string>
+    <string name="VegetablesTitle">Vegetables</string>
+    <string name="seedsTitle">Seeds</string>
+
+    <!--fertilizers-->
+    <string-array name="fertilizersTypes">
+        <item>Fertl1</item>
+        <item>Fertl2</item>
+        <item>Fertl3</item>
+        <item>Fertl4</item>
+    </string-array>
+    <string-array name="frtilizersDescription">
+        <item>organic pure for tomato and cucumber</item>
+        <item>has little amount of toxic </item>
+        <item>good for your crops, grap wln tndm isa</item>
+        <item>has a good effect on your plants </item>
+    </string-array>
+
+    <!--product Details Page-->
+    <string name="postedBy">Posted By</string>
+    <string name="productName">Product Name</string>
+    <string name="drEarth">Dr Earth</string>
+    <string name="productDetails">Product Details</string>
+    <string name="description">Description</string>
+    <string name="descriptionText">It is a very organic fertilizers, you can not find like it at any other place</string>
+    <string name="price">Price</string>
+    <string name="priceValue">10 L.E/Bottle</string>
+    <string name="offer">Offer</string>
+    <string name="offerDetails">If you Buy More than 100 Bottle, you can gain 70% discount.</string>
+    <string name="mobile">Mobile</string>
+    <string name="mobileNumber">01120076234</string>
+    <string name="ok">Ok</string>
+    <string name="gpsWarning">GPS is deactivated, Choose your Location</string>
+    <string name="next">Next</string>
+    <string name="Add">Add</string>
+    <string name="productDescription">Product Description</string>
+    <string name="yourName">Your Name</string>
+    <string name="save">Save</string>
+
+    <!--chemicals-->
+    <string-array name="chemicalsTypes">
+        <item>Chemical1</item>
+        <item>Chemical2</item>
+        <item>Chemical3</item>
+        <item>Chemical4</item>
+        <item>Chemical5</item>
+        <item>Chemical6</item>
+        <item>Chemical7</item>
+        <item>Chemical8</item>
+    </string-array>
+    <string-array name="chemicalsDescription">
+        <item>will kill all insects in your land</item>
+        <item>has a good effect on your crops quality </item>
+        <item>not harm at all, will increace your productivity</item>
+        <item>healthy for you and your family</item>
+        <item>will kill all insects in your land</item>
+        <item>has a good effect on your crops quality </item>
+        <item>not harm at all, will increace your productivity</item>
+        <item>healthy for you and your family</item>
+    </string-array>
+
+    <!--t2awi-->
+    <string-array name="t2awiTypes">
+        <item>T2awi1</item>
+        <item>T2awi2</item>
+        <item>T2awi3</item>
+        <item>T2awi4</item>
+        <item>T2awi5</item>
+        <item>T2awi6</item>
+        <item>T2awi7</item>
+        <item>T2awi8</item>
+    </string-array>
+    <string-array name="t2awiDescription">
+        <item>organic pure for tomato and cucumber</item>
+        <item>has little amount of toxic </item>
+        <item>good for your crops, grap wln tndm isa</item>
+        <item>has a good effect on your plants </item>
+        <item>organic pure for tomato and cucumber</item>
+        <item>has little amount of toxic </item>
+        <item>good for your crops, grap wln tndm isa</item>
+        <item>has a good effect on your plants </item>
+    </string-array>
+
+    <!--fruits-->
+    <string-array name="fruitsNames">
+        <item>Mango</item>
+        <item>Apple</item>
+        <item>Panana</item>
+        <item>Orange</item>
+        <item>Watermelon</item>
+        <item>Strawberry</item>
+        <item>pineapple</item>
+        <item>Kiwi</item>
+    </string-array>
+
+    <!--Seeds-->
+    <string-array name="seedsNames">
+        <item>Seed1</item>
+        <item>seed2</item>
+        <item>seed3</item>
+        <item>seed4</item>
+    </string-array>
+
+    <!--Specific fruit-->
+    <string-array name="specificFruitPrice">
+        <item>13    L.E/Kilo</item>
+        <item>7     L.E/Kilo</item>
+        <item>9     L.E/Kilo</item>
+        <item>1.25  L.E/Kilo</item>
+        <item>13    L.E/Kilo</item>
+        <item>7     L.E/Kilo</item>
+        <item>9     L.E/Kilo</item>
+        <item>1.25  L.E/Kilo</item>
+    </string-array>
+
+    <string-array name="specificFruitLocation">
+        <item>Cairo,       23/3/2017  02:26  A.M</item>
+        <item>El Shar2ia,  10/5/2017  12:13  P.M</item>
+        <item>Kfr Eldwar,  30/7/2017  03:40  A.M</item>
+        <item>Sohag,       11/9/2017  11:22  P.M</item>
+        <item>Cairo,       23/3/2017  02:26  A.M</item>
+        <item>El Shar2ia,  10/5/2017  12:13  P.M</item>
+        <item>Kfr Eldwar,  30/7/2017  03:40  A.M</item>
+        <item>Sohag,       11/9/2017  11:22  P.M</item>
+    </string-array>
+
+    <string-array name="locations">
+        <item>Cairo</item>
+        <item>El sharkia</item>
+        <item>Giza</item>
+        <item>6 October</item>
+        <item>Qena</item>
+        <item>Alex</item>
+        <item>Domyat</item>
+        <item>El monofia</item>
+
+    </string-array>
+
+    <string-array name="pricesList">
+        <item>13    L.E/Kilo</item>
+        <item>7     L.E/Kilo</item>
+        <item>9     L.E/Kilo</item>
+        <item>1.25  L.E/Kilo</item>
+    </string-array>
+    <string-array name="locationList">
+        <item>Cairo</item>
+        <item>El sharkia</item>
+        <item>Giza</item>
+        <item>6 October</item>
+    </string-array>
+
+
+    <string name="requiredField">* This field is required</string>
+
+
+    <string name="pricePage">Price</string>
+    <string name="locationPage">Location</string>
+    <string name="datePage">Date</string>
+
+    <string name="weakGpsSignal">GPS signal is weak, Choose your Location</string>
+    <string name="deactivatedGps">GPS is deactivated, Choose your Location</string>
+    <string name="rating">Rating</string>
+    <string name="SaveChanges">Save Changes</string>
+
+
+    <string name="enterYourEmail">E-Mail</string>
+    <string name="login">Log In</string>
+    <string name="signUp">sign up</string>
+
+    <string name="app_id">221826621531709</string>
+    <string name="errorMessage">In valid operation, your data is private</string>
+</resources>

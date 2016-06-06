@@ -1,0 +1,243 @@
+<resources>
+    <string name="app_name">محصولي</string>
+    <!--sideMenue-->
+    <string-array name="setting">
+        <item>الصفحه الرئيسيه</item>
+        <item>الحساب الشخصى</item>
+        <item>تواصل معنا</item>
+        <item>خروج</item>
+    </string-array>
+
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="contactUs">تواصل معنا</string>
+    <string name="logOut">للخروج</string>
+    <string name="editProfile">تعدليل الصفحة الشخصية</string>
+    <string name="myOffers">عروضى</string>
+    <string name="personalSettings">الاعدادات الشخصية</string>
+
+    <!--contact us-->
+    <string name="app_email">mahsoli@gmail.com</string>
+
+
+
+
+    <!--Home Page List   -->
+    <string-array name="mainList">
+        <item>المحاصيل</item>
+        <item>الأسمدة</item>
+        <item>كيماوي</item>
+        <item>تقاوي</item>
+    </string-array>
+    <string name="web">موقع التواصل:</string>
+    <string name="priceBy">السعر بالحنيه</string>
+
+    <!--Crops Main Categories-->
+    <string-array name="cropsMainList">
+        <item>خضراوات</item>
+        <item>واكهه</item>
+        <item>حبوب</item>
+    </string-array>
+<string name="Quntity">الكمية</string>
+    <string name="StartDate">تاريخ البدايه</string>
+    <string name="Location">الموقع</string>
+    <string name="OK">تم</string>
+    <string name="hello">مرحبا</string>
+
+    <string-array name="vegetablesNames">
+        <item>طماطم</item>
+        <item>خيار</item>
+        <item>جزر</item>
+        <item>كوسه</item>
+        <item>فلفل</item>
+        <item>جرجير</item>
+    </string-array>
+
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">close Navigation Drawer</string>
+    <!--profile-->
+    <string name="name">الاسم</string>
+    <string name="staticUserName">احمد حسن</string>
+    <string name="specialist">التخصص</string>
+    <string name="fertilizers">الأسمدة</string>
+
+    <!--activities' titles-->
+
+    <string name="cropsTypes">أنواع المحاصيل</string>
+    <string name="fertilizersTypes">أنواع الاسمده</string>
+    <string name="chemicalsTypes">أنواع الكيماويات</string>
+    <string name="T2awi">تقاوى</string>
+
+
+    <string name="profileTitle">الحساب الشخصى</string>
+    <string name="contactUsTitle">تواصل معنا</string>
+    <string name="FruitsTitle">فواكهه</string>
+    <string name="VegetablesTitle">خضراوات</string>
+    <string name="seedsTitle">حبوب</string>
+    <string name="profile">الحساب الشخصى</string>
+
+    <!--fertilizers-->
+    <string-array name="fertilizersTypes">
+        <item>الأسمدة النيتروجينية </item>
+        <item>الأسمدة الفوسفورية </item>
+        <item>سماد خليط </item>
+        <item> السماد الأخضر</item>
+    </string-array>
+    <string-array name="frtilizersDescription">
+        <item> وتزود التربة بعناصر أخرى غير النيتروجين، مثل كبريتات الأمونيوم وفوسفات الأمونيوم.</item>
+        <item> وتزود التربة بعناصر مثل  كلوريد البوتاسيوم ونترات البوتاسيوم وكبريتات البوتاسيوم. </item>
+        <item>تحتوي هذه الأسمدة العضوية على نسبة أقل من العناصر مقارنة بالأسمدة المعدنية، ولهذا، فإنها تستخدم بكميات كبيرة للحصول على نتائج مشابهة</item>
+        <item>ويشتمل السماد الأخضر على محاصيل معينة يستخدمها المزارعون سمادًا.</item>
+    </string-array>
+    <string name="Mobile">رقم التليفون </string>
+   <string name="email">أيميل</string>
+    <string name="link">اضغط هنا لاضافة عرض</string>
+    <string name="governorate">المحافظه</string>
+    <!--product Details Page-->
+    <string name="postedBy">نشرعن  طريق</string>
+    <string name="productName">اسم المنتج</string>
+    <string name="drEarth">Dr Earth</string>
+    <string name="productDetails">تفاصيل المنتج</string>
+    <string name="description">وصف</string>
+    <string name="descriptionText">ها الأسمدة العضوية جدا، وكنت لا يمكن العثور على مثل ذلك في أي مكان آخر ، يمكنك الاتصال شمال شرق ل تأخذ فكرة ، ثم شراء غدا ، ليس لدي أي مشكلة</string>
+    <string name="price">السعر</string>
+    <string name="priceValue">10جنيه /العبوه</string>
+    <string name="offer">العرض</string>
+    <string name="offerDetails">إذا قمت بشراء أكثر من 100 زجاجة ، يمكنك الحصول على 70 ٪ خصم .</string>
+    <string name="mobile">تليفون</string>
+    <string name="mobileNumber">01120076234</string>
+    <string name="ok">موافق</string>
+    <string name="gpsWarning">GPSليس مفعلا الرجاء تحديد موقعك</string>
+    <string name="goToApplication">تم</string>
+    <string name="Add">اضافه</string>
+    <string name="productDescription">وصف المنتج</string>
+    <string name="yourName">اسمك</string>
+    <string name="save">حفظ</string>
+    <string name="facebook_app_id"></string>
+
+    <!--chemicals-->
+    <string-array name="chemicalsTypes">
+        <item> المبيدات الكيماوية:</item>
+        <item> منظمات النمو</item>
+        <item> منظمات النمو</item>
+        <item> منظمات النمو</item>
+        <item> منظمات النمو</item>
+        <item> منظمات النمو</item>
+        <item> منظمات النمو</item>
+        <item> منظمات النمو</item>
+    </string-array>
+    <string-array name="chemicalsDescription">
+        <item>و قتل جميع الحشرات في أرضكم</item>
+        <item>له تأثير جيد على جودة المحاصيل الخاصة بك </item>
+        <item>لا ضرر على الإطلاق، و زيادة الإنتاجية</item>
+        <item>ليس سيئا بالنسبة لك ولعائلتك</item>
+        <item>لا ضرر على الإطلاق، و زيادة الإنتاجية</item>
+        <item>لا ضرر على الإطلاق، و زيادة الإنتاجية </item>
+        <item>لا ضرر على الإطلاق، و زيادة الإنتاجية</item>
+        <item>لا ضرر على الإطلاق، و زيادة الإنتاجية</item>
+    </string-array>
+
+    <!--t2awi-->
+    <string-array name="t2awiTypes">
+        <item>شتلات الخضر</item>
+        <item>شتلات الفاكهه</item>
+        <item>شتلات نبات الزينه</item>
+        <item>شتلات النباتات الطبيه</item>
+        <item>شتلات النباتات الطبيه</item>
+        <item>شتلات النباتات الطبيه</item>
+        <item>شتلات النباتات الطبيه</item>
+    </string-array>
+    <string-array name="t2awiDescription">
+        <item>خيار هشام  خيار هجين شتوي موسم طويل مضمون عالي الانتاجية</item>
+        <item>خيار هشام  خيار هجين شتوي موسم طويل مضمون عالي الانتاجية </item>
+        <item>خيار هشام  خيار هجين شتوي موسم طويل مضمون عالي الانتاجية</item>
+        <item>خيار هشام  خيار هجين شتوي موسم طويل مضمون عالي الانتاجية</item>
+        <item>خيار هشام  خيار هجين شتوي موسم طويل مضمون عالي الانتاجية</item>
+        <item>خيار هشام  خيار هجين شتوي موسم طويل مضمون عالي الانتاجية </item>
+        <item>خيار هشام  خيار هجين شتوي موسم طويل مضمون عالي الانتاجية</item>
+        <item>خيار هشام  خيار هجين شتوي موسم طويل مضمون عالي الانتاجية </item>
+    </string-array>
+
+    <!--fruits-->
+    <string-array name="fruitsNames">
+        <item>مانجو</item>
+        <item>تفاح</item>
+        <item>موز</item>
+        <item>برتقال</item>
+        <item>بطيخ</item>
+        <item>فاروله</item>
+        <item>اناناس</item>
+        <item>خوخ</item>
+    </string-array>
+
+    <!--Seeds-->
+    <string-array name="seedsNames">
+        <item>قمح</item>
+        <item>رز</item>
+        <item>فاصوليا</item>
+        <item>فول</item>
+    </string-array>
+
+    <!--Specific fruit-->
+    <string-array name="specificFruitPrice">
+        <item>13    جنيه/الكيلو</item>
+        <item>7    جنيه/الكيلو</item>
+        <item>9     جنيه/الكيلو</item>
+        <item>1.25 جنيه/الكيلو</item>
+        <item>13   جنيه/الكيلو</item>
+        <item>7    جنيه/الكيلو</item>
+        <item>9    جنيه/الكيلو</item>
+        <item>1.25 جنيه/الكيلو</item>
+    </string-array>
+
+    <string-array name="specificFruitLocation">
+        <item>القاهره,       23/3/2017  02:26  A.M</item>
+        <item>الشرقيه,  10/5/2017  12:13  P.M</item>
+        <item>كفر الدوار,  30/7/2017  03:40  A.M</item>
+        <item>سوهاج,       11/9/2017  11:22  P.M</item>
+        <item>المنصوره,       23/3/2017  02:26  A.M</item>
+        <item>الغربيه,  10/5/2017  12:13  P.M</item>
+        <item>المنوفيه,  30/7/2017  03:40  A.M</item>
+        <item>اسيوط,       11/9/2017  11:22  P.M</item>
+    </string-array>
+
+    <string-array name="locations">
+        <item>القاهره</item>
+        <item>الشرقيه</item>
+        <item>الجيزه</item>
+        <item>6 اكتوبر</item>
+        <item>قنا</item>
+        <item>الاسكندريه</item>
+        <item>دمياط</item>
+        <item>المنوفيه</item>
+
+    </string-array>
+
+    <string-array name="pricesList">
+        <item>13    جنيه/الكيلو</item>
+        <item>7     جنيه/الكيلو</item>
+        <item>9     جنيه/الكيلو</item>
+        <item>1.25  جنيه/الكيلو</item>
+    </string-array>
+    <string-array name="locationList">
+        <item>القاهره</item>
+        <item>الشرقيه</item>
+        <item>المنصوره</item>
+        <item>6 اكتوبر</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="deactivatedGps">gpsليس مفعلا اتر موقعك</string>
+
+
+
+
+
+    <string name="enterYourEmail">البريد الإلكترونى</string>
+    <string name="login">الدخول</string>
+    <string name="signUp">التسجيل</string>
+
+    <string name="next">التالى</string>
+    <string name="errorMessage">فشلت العمليه ,, البيانات سرية</string>
+	
+</resources>
